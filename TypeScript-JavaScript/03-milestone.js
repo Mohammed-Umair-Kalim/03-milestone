@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
             #div2{
     background-color: rgba(182, 182, 182, 0.74);
     font-size:xx-large;
-     padding-block-end: 150px;
+     padding-block-end: 180px;
      margin:100px;
 
 }
