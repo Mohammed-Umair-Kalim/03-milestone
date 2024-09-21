@@ -44,7 +44,7 @@ button1?.addEventListener("click", () => {
             <style>
             #div2{
     background-color: rgba(182, 182, 182, 0.74);
-    font-size:medium;
+    font-size:xx-large;
      padding-block-end: 150px;
      margin:100px;
 
